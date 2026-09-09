@@ -31,6 +31,6 @@ A curated collection of 112 standalone Python programs solving fundamental algor
 
 Run any problem directly using Python:
 
-`ash
+`Bash
 python task_001_arithmetic_operations.py
 `
